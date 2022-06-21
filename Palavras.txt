@@ -1,0 +1,8 @@
+panda
+gato
+cachorro
+cavalo
+vaca
+jacare
+peixe
+passaro
