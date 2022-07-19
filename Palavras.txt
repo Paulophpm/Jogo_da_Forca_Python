@@ -1,8 +1,10 @@
-panda
 gato
+papagaio
+arara
+leao
+cobra
 cachorro
-cavalo
-vaca
-jacare
-peixe
-passaro
+tigre
+elefante
+pato
+panda
